@@ -11,7 +11,14 @@ We conducted 5 main bidding strategies, including: constant, random, linear, non
 
 ![results](https://github.com/joyyikuo/JYD-BACSAI-19/blob/master/Images/results.PNG)
 
+## Instructions
+
+Feature Engineering files needs to be run before running Linear Bidding Strategy, Non-Linear Bidding Strategy, and Multi-agent Bidding Strategy
+
+
 ## Running the RTB
+
+* [Data Exploration](https://github.com/joyyikuo/JYD-BACSAI-19/blob/master/Data_Exploration.ipynb)
 
 * [Constant Bidding](https://github.com/joyyikuo/JYD-BACSAI-19/tree/master/Constant%20Bidding)
 
@@ -26,9 +33,7 @@ We conducted 5 main bidding strategies, including: constant, random, linear, non
 
 
 ## Authors
-```
-* **Yiran Du**
-* **Yi Kuo**
-* **Durga Ravindra**
 
-```
+* [Durga Ravindra](https://github.com/durgar2012) 
+* [Yi Kuo](https://github.com/joyyikuo) 
+* [Yiran Du](https://github.com/yirandu) 
