@@ -20,7 +20,7 @@ Feature Engineering files needs to be run before running Linear Bidding Strategy
 
 * [Data Exploration](https://github.com/joyyikuo/JYD-BACSAI-19/blob/master/Data_Exploration.ipynb)
 
-* [Constant Bidding & Random Bidding](https://github.com/joyyikuo/JYD-BACSAI-19/tree/master/Constant%20Bidding)
+* [Constant Bidding & Random Bidding](https://github.com/joyyikuo/JYD-BACSAI-19/tree/master/Constant_%26_Random_Bidding)
 
 * [Linear Bidding](https://github.com/joyyikuo/JYD-BACSAI-19/tree/master/Linear%20Bidding)
 
